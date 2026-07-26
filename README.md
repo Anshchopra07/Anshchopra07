@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Anshchopra07">
-    <img src="https://profile-counter.glitch.me/Anshchopra07/count.svg" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Anshchopra07&color=39D353" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/badge/Coding-Active-39D353?style=flat-square&logo=github" alt="Coding Active" />
 </p>
