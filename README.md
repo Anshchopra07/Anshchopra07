@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nruU/giphy.gif" alt="Coding Spongebob" width="380" />
+  <img src="coding.gif" alt="Coding GIF" width="380" />
 </p>
 
 <h3><p align="center">💻 Software Developer | ML & DL Developer from INDIA 🇮🇳</p></h3>
