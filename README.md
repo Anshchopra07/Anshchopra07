@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Anshchopra07">
-    <img src="https://komarev.com/ghvc/?username=Anshchopra07&color=green&style=flat-square" alt="Profile Views" />
+    <img src="https://profile-counter.glitch.me/Anshchopra07/count.svg" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/badge/Coding-Active-39D353?style=flat-square&logo=github" alt="Coding Active" />
 </p>
@@ -123,24 +123,24 @@ Here are some of the key repositories I've built and engineered:
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Anshchopra07/canvas-ui">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshchopra07&repo=canvas-ui&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Anshchopra07&repo=canvas-ui&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Anshchopra07/Data-packet-inspection-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshchopra07&repo=Data-packet-inspection-&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Anshchopra07&repo=Data-packet-inspection-&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/Anshchopra07/MULTIPASSVALT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshchopra07&repo=MULTIPASSVALT&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Anshchopra07&repo=MULTIPASSVALT&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Anshchopra07/smart-doctor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshchopra07&repo=smart-doctor&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=Anshchopra07&repo=smart-doctor&theme=tokyonight&show_owner=true&hide_border=true" width="400px" />
         </a>
       </td>
     </tr>
@@ -163,7 +163,7 @@ Here are some of the key repositories I've built and engineered:
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Anshchopra07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Anshchopra07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ansh's GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshchopra07&theme=tokyonight&hide_border=true" alt="Ansh's Streak Stats" />
