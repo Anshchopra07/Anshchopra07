@@ -10,6 +10,19 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nruU/giphy.gif" alt="Coding Spongebob" width="380" />
+</p>
+
+<h3><p align="center">💻 Software Developer | ML & DL Developer from INDIA 🇮🇳</p></h3>
+
+<p align="center">
+  <a href="https://github.com/Anshchopra07">
+    <img src="https://komarev.com/ghvc/?username=Anshchopra07&color=green&style=flat-square" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Coding-Active-39D353?style=flat-square&logo=github" alt="Coding Active" />
+</p>
+
 ---
 
 ## 🎯 About Me
