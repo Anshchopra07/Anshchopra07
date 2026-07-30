@@ -41,10 +41,10 @@ I am a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** who 
 Let's collaborate or chat about tech! Feel free to reach out on any of these platforms:
 
 <div align="center">
-  <a href="https://instagram.com/Anshchopra07" target="_blank">
+  <a href="https://instagram.com/ansh_chopra7" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=333333" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/ansh-chopra-0630a4288" target="_blank">
+  <a href="https://www.linkedin.com/in/ansh-chopra-0630a4288/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333" alt="LinkedIn" />
   </a>
   <a href="mailto:anshchopra0704@gmail.com" target="_blank">
